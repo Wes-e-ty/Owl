@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 void apple_orange(int s, int t, int a, int b, vector<int> apples, vector<int> oranges){
 	int count_apples=0;
 	int count_oranges=0;
